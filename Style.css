@@ -1,0 +1,166 @@
+html {
+    font-family: sans-serif;
+  }
+  
+  body {
+    width: 300px;
+    max-width: 750px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color:black;
+    padding-top: 45px;
+  }
+  
+
+  
+  button {
+    background-color: #141414;
+    color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 30px;
+    border-style: none;
+    margin-top: 30px;
+    /* margin-left: 50px; */
+  }
+  
+  #subt1 {
+    background-color: #161616;
+    color: #ffffff;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    border-style: none;
+    margin-top: 50px;
+    /* margin-left: 75px; */
+  }
+
+
+  #subt2 {
+    background-color: #161616;
+    color: #ffffff;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    border-style: none;
+    margin-top: 50px;
+    /* margin-left: 75px; */
+  }
+
+
+  #subt3 {
+    background-color: #161616;
+    color: #ffffff;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    border-style: none;
+    margin-top: 50px;
+    /* margin-left: 75px; */
+  }
+  
+  #guessField1 {
+    color: #000;
+    width: 250px;
+    height: 50px;
+    font-size: 30px;
+    border-style: none;
+    margin-top: 25px;
+  
+    /* margin-left: 50px; */
+    border: 5px solid #6c6d6d;
+    text-align: center;
+  }
+
+
+  #guessField2 {
+    color: #000;
+    width: 250px;
+    height: 50px;
+    font-size: 30px;
+    border-style: none;
+    margin-top: 25px;
+  
+    /* margin-left: 50px; */
+    border: 5px solid #6c6d6d;
+    text-align: center;
+  }
+
+  #guessField3 {
+    color: #000;
+    width: 250px;
+    height: 50px;
+    font-size: 30px;
+    border-style: none;
+    margin-top: 25px;
+  
+    /* margin-left: 50px; */
+    border: 5px solid #6c6d6d;
+    text-align: center;
+  }
+  
+  #guess1 {
+    font-size: 55px;
+    /* margin-left: 90px; */
+    margin-top: 120px;
+    color: #fff;
+  }
+
+  #guess2 {
+    font-size: 55px;
+    /* margin-left: 90px; */
+    margin-top: 120px;
+    color: #fff;
+  }
+
+
+  #guess3 {
+    font-size: 55px;
+    /* margin-left: 90px; */
+    margin-top: 120px;
+    color: #fff;
+  }
+  
+
+  
+  #wrapper {
+    box-sizing: border-box;
+    text-align: center;
+    width: 600px;
+    height: 100%;
+    background-color: #474747;
+    color: #fff;
+    font-size: 25px;
+  }
+  
+  h1 {
+    background-color: #161616;
+  
+    color: #fff;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+    text-align: center;
+    .text-hover {
+        color: yellow; /* Initial color */
+        transition: color 0.5s ease; /* Transition effect */
+      }
+  }
+  
+  .navbar{
+
+height: 80px;
+width: 600px;
+background-color: aquamarine;
+color: black;
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 25px;
+  }
