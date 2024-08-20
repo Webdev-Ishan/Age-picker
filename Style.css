@@ -25,33 +25,8 @@ html {
     /* margin-left: 50px; */
   }
   
-  #subt1 {
-    background-color: #161616;
-    color: #ffffff;
-    width: 200px;
-    height: 50px;
-    border-radius: 10px;
-    font-size: 20px;
-    border-style: none;
-    margin-top: 50px;
-    /* margin-left: 75px; */
-  }
 
-
-  #subt2 {
-    background-color: #161616;
-    color: #ffffff;
-    width: 200px;
-    height: 50px;
-    border-radius: 10px;
-    font-size: 20px;
-    border-style: none;
-    margin-top: 50px;
-    /* margin-left: 75px; */
-  }
-
-
-  #subt3 {
+  #subt {
     background-color: #161616;
     color: #ffffff;
     width: 200px;
